@@ -5,7 +5,7 @@ Hi! I am a passionate and goal-oriented engineering student looking to expand my
 When I am not tinkering on my computer or in class, I'm on the court <a href="https://athletics.uwaterloo.ca/sports/mens-volleyball/roster/william-mcintyre/9127"> playing volleyball </a> at the University of Waterloo :)
 
 <p align="left">
-      <a href="https://will-mcintyre04.github.io/will-mcintyre.github.io/">
+      <a href="https://will-mcintyre04.github.io/">
          <img alt="my website" title="See my Portfolio!" src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-purple?style=for-the-badge&logo=browser&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/will-mcintyre-b05b8b1ab/">
          <img alt="my linkedin" title="Check out my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
