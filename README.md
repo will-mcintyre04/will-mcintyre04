@@ -36,8 +36,14 @@ When I am not tinkering on my computer or in class, I'm on the court <a href="ht
 
 ### 📊 Stats
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-mcintyre04&show_icons=true&theme=onedark)
-![GitHub Streak](https://streak-stats.demolab.com?user=will-mcintyre04&theme=onedark&border_radius=4.5)
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=will-mcintyre04&show_icons=true&theme=onedark">
+</img>
+</a>
+<a>
+<img align="center" src="https://streak-stats.demolab.com?user=will-mcintyre04&theme=onedark&border_radius=4.5">
+</img>
+</a>
 
 <!---
 will-mcintyre04/will-mcintyre04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
