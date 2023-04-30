@@ -44,7 +44,7 @@ When I am not tinkering on my computer or in class, I'm on the court <a href="ht
 "C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" title=
 ".NET 6.0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" title=
+<img align="left" alt="Anaconda Navigator" width="30px" style="padding-right:10px;" title=
 "Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" title=
 "Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
