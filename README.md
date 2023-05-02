@@ -55,7 +55,7 @@ When I am not tinkering on my computer or in class, I'm on the court <a href="ht
 ### 📊 Stats
 
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=will-mcintyre04&show_icons=true&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api?username=will-mcintyre04&show_icons=true&theme=onedark">
 </img>
 </a>
 
