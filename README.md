@@ -8,10 +8,10 @@ When I am not tinkering on my computer or in class, I'm on the court <a href="ht
 
 <p align="left">
       <a href="https://will-mcintyre04.github.io/">
-         <img alt="my website" title="See my Portfolio!" src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-purple?style=for-the-badge&logo=browser&logoColor=white"/></a> 
+         <img alt="My Website" title="See my Portfolio!" src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-purple?style=for-the-badge&logo=browser&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/will-mcintyre-b05b8b1ab/">
-         <img alt="my linkedin" title="Check out my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <img alt="my location" src="https://custom-icon-badges.demolab.com/badge/Waterloo-CAN-darkred?style=for-the-badge&logo=location&logoColor=white"/></a> 
+         <img alt="My Linkedin" title="Check out my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <img alt="My Location" src="https://custom-icon-badges.demolab.com/badge/Waterloo-CAN-darkred?style=for-the-badge&logo=location&logoColor=white"/></a> 
    </p>
    
 ---
