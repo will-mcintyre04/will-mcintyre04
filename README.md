@@ -6,6 +6,8 @@ Hi!👋 I am a passionate and goal-oriented engineering student looking to expan
 
 When I am not tinkering on my computer or in class, I'm on the court <a href="https://athletics.uwaterloo.ca/sports/mens-volleyball/roster/william-mcintyre/9127"> playing volleyball </a> at the University of Waterloo :)
 
+Check out the links below to get more info about me!
+
 <p align="left">
       <a href="https://will-mcintyre04.github.io/">
          <img alt="My Website" title="See my Portfolio!" src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-purple?style=for-the-badge&logo=browser&logoColor=white"/></a> 
