@@ -14,6 +14,8 @@ Check out the links below to get more info about me!
       <a href="https://www.linkedin.com/in/will-mcintyre-b05b8b1ab/">
          <img alt="My Linkedin" title="Check out my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <img alt="My Location" src="https://custom-icon-badges.demolab.com/badge/Waterloo-CAN-darkred?style=for-the-badge&logo=location&logoColor=white"/></a> 
+      <a href="https://will-mcintyre04.github.io/images/Will_McIntyre_Resume_Continuous.pdf">
+           <img alt="My Resume" src=https://custom-icon-badges.demolab.com/badge/-Resume-darkred?style=for-the-badge&logo=download&logoColor=white"/></a>
    </p>
    
 ---
