@@ -50,14 +50,14 @@ When I am not tinkering on my computer or in class, I'm on the court <a href="ht
 "Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <br />
 
----
+<!-- ---
 
 ### 📊 Stats
 
 <a>
 <img src="https://github-readme-stats.vercel.app/api?username=will-mcintyre04&show_icons=true&theme=onedark">
 </img>
-</a>
+</a> -->
 
 <!---
 will-mcintyre04/will-mcintyre04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
