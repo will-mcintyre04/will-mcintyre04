@@ -52,6 +52,8 @@ Check out the links below to get more info about me!
 "Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" title=
 "Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img alt = "sqlite" width="30px" style="padding-right:10px;" title= "Sqlite"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <br />
 
 <!-- ---
