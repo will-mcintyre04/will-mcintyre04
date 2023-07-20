@@ -8,7 +8,7 @@ When I am not tinkering on my computer or in class, I'm on the court <a href="ht
 
 Check out the links below to get more info about me!
 
-Currently looking for internships in Winter 2023!
+Currently looking for internships in Winter 2023.
 
 <p align="left">
       <a href="https://will-mcintyre04.github.io/">
