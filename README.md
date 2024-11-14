@@ -8,7 +8,7 @@ When I am not tinkering on my computer or in class, I'm on the court <a href="ht
 
 Check out the links below to learn more about me!
 
-Currently @ NCR Corporation
+Currently @ WSIB Innovation Lab
 
 <p align="left">
       <a href="https://will-mcintyre04.github.io/">
