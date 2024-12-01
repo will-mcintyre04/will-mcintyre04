@@ -57,7 +57,6 @@ Currently @ WSIB Innovation Lab
 <img alt = "sqlite" width="30px" style="padding-right:10px;" title= "Sqlite"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <br />
-
 <!-- ---
 
 ### 📊 Stats
