@@ -9,8 +9,6 @@ When I am not tinkering on my computer or in class, I'm on the court <a href="ht
 Check out the links below to learn more about me!
 
 Currently @ WSIB Innovation Lab
-
-
 <p align="left">
       <a href="https://will-mcintyre04.github.io/">
          <img alt="My Website" title="See my Portfolio!" src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-purple?style=for-the-badge&logo=browser&logoColor=white"/></a> 
