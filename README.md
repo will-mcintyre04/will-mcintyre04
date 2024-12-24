@@ -1,6 +1,7 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/6703/6703351.png" alt="volleyball" width="30px"> Will McIntyre </img>
 
 
+
 <img align="right" width="200" height="150" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
 
 Hi!👋 I am a passionate and goal-oriented engineering student looking to expand my knowledge in all things tech one day at a time. All of my main projects can be found here, built and designed to further my abilities while creatively solving problems.</p>
