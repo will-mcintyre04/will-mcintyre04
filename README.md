@@ -26,7 +26,9 @@ Currently Searching for Summer 2025 Internships!
 ### ⚙️ Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" title=
-"C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+"C++" src="https://devicon-website.vercel.app/api/cplusplus/line.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" title=
+"C" src="https://devicon-website.vercel.app/api/c/line.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" title=
 "Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" title=
