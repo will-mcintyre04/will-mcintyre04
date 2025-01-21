@@ -6,6 +6,7 @@
 
 Hi!👋 I am a passionate and goal-oriented engineering student looking to expand my knowledge in all things tech one day at a time. All of my main projects can be found here, built and designed to further my abilities while creatively solving problems.</p>
 
+
 When I am not tinkering on my computer or in class, I'm on the court <a href="https://athletics.uwaterloo.ca/sports/mens-volleyball/roster/will-mcintyre/10190"> playing volleyball</a> at the University of Waterloo :)
 
 Check out the links below to learn more about me!
