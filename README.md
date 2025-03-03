@@ -15,7 +15,7 @@ Currently Searching for Summer 2025 Internships!
 <p align="left">
       <a href="https://will-mcintyre04.github.io/">
          <img alt="My Website" title="See my Portfolio!" src="https://custom-icon-badges.demolab.com/badge/-My Portfolio-purple?style=for-the-badge&logo=browser&logoColor=white"/></a> 
-      <a href="https://will-mcintyre04.github.io/images/Will_McIntyre_Resume_16-09-2023-15-47-58.pdf">
+      <a href="[https://will-mcintyre04.github.io/images/Will_McIntyre_Resume_16-09-2023-15-47-58.pdf](https://github.com/user-attachments/files/19061480/Will-McIntyre-Tron-Resume3A.pdf)">
            <img alt="My Resume" src=https://custom-icon-badges.demolab.com/badge/-Resume-darkred?style=for-the-badge&logo=download&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/will-mcintyre-b05b8b1ab/">
          <img alt="My Linkedin" title="Check out my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
